@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cihuyijiqace.pages.dev/sitemap.xml
